@@ -1,0 +1,9 @@
+What are design Patterns 				Yes
+SOLID Principles					Yes
+Usage and decision making				Yes 
+GOF Patterns overview					Yes
+Creational Vs Structural Vs Behavioral Patterns		Yes
+Abstract Factory Pattern – UML, Implementation, 
+Usecase Adapter pattern – UML, Implementation, 
+Usecase
+Demos & Labs						Yes

@@ -1,0 +1,15 @@
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Non Generic Collections\bin\Debug\net6.0\Non Generic Collections.exe
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Non Generic Collections\bin\Debug\net6.0\Non Generic Collections.deps.json
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Non Generic Collections\bin\Debug\net6.0\Non Generic Collections.runtimeconfig.json
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Non Generic Collections\bin\Debug\net6.0\Non Generic Collections.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Non Generic Collections\bin\Debug\net6.0\ref\Non Generic Collections.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Non Generic Collections\bin\Debug\net6.0\Non Generic Collections.pdb
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Non Generic Collections\obj\Debug\net6.0\Non Generic Collections.csproj.AssemblyReference.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Non Generic Collections\obj\Debug\net6.0\Non Generic Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Non Generic Collections\obj\Debug\net6.0\Non Generic Collections.AssemblyInfoInputs.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Non Generic Collections\obj\Debug\net6.0\Non Generic Collections.AssemblyInfo.cs
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Non Generic Collections\obj\Debug\net6.0\Non Generic Collections.csproj.CoreCompileInputs.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Non Generic Collections\obj\Debug\net6.0\Non Generic Collections.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Non Generic Collections\obj\Debug\net6.0\ref\Non Generic Collections.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Non Generic Collections\obj\Debug\net6.0\Non Generic Collections.pdb
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Non Generic Collections\obj\Debug\net6.0\Non Generic Collections.genruntimeconfig.cache

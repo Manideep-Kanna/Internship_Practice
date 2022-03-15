@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "217dfbb9-a6cc-4158-af7b-98c93b9aa12f": {
+      "ProjectGuid": "217dfbb9-a6cc-4158-af7b-98c93b9aa12f",
+      "DisplayName": "TestProject",
+      "ColorIndex": 0
+    },
+    "79a9790e-cbeb-4cc0-9b8e-43b27eb567c6": {
+      "ProjectGuid": "79a9790e-cbeb-4cc0-9b8e-43b27eb567c6",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "b426c077-636a-4d1c-a93b-0af1d7383b24": {
+      "ProjectGuid": "b426c077-636a-4d1c-a93b-0af1d7383b24",
+      "DisplayName": "SalaryCalculator",
+      "ColorIndex": 2
+    },
+    "f612e4b0-08f2-4014-a562-047f85340822": {
+      "ProjectGuid": "f612e4b0-08f2-4014-a562-047f85340822",
+      "DisplayName": "SalaryCalculator1",
+      "ColorIndex": 3
+    },
+    "4d4d9c6f-261c-406f-85ad-2ad7c9c95752": {
+      "ProjectGuid": "4d4d9c6f-261c-406f-85ad-2ad7c9c95752",
+      "DisplayName": "salcal",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

@@ -1,0 +1,4 @@
+1.Why do we need Console.Read() at the end of all tasks finished
+2.Is there any difference between Task.Sleep() and Thread.Sleep()
+3.I heard that Tasks works on the thread pool so what it is actually 
+

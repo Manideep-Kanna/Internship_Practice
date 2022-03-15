@@ -1,0 +1,15 @@
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Exception_Handling_Threads\Exception_Handling_Threads\bin\Debug\net6.0\Exception_Handling_Threads.exe
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Exception_Handling_Threads\Exception_Handling_Threads\bin\Debug\net6.0\Exception_Handling_Threads.deps.json
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Exception_Handling_Threads\Exception_Handling_Threads\bin\Debug\net6.0\Exception_Handling_Threads.runtimeconfig.json
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Exception_Handling_Threads\Exception_Handling_Threads\bin\Debug\net6.0\Exception_Handling_Threads.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Exception_Handling_Threads\Exception_Handling_Threads\bin\Debug\net6.0\ref\Exception_Handling_Threads.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Exception_Handling_Threads\Exception_Handling_Threads\bin\Debug\net6.0\Exception_Handling_Threads.pdb
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Exception_Handling_Threads\Exception_Handling_Threads\obj\Debug\net6.0\Exception_Handling_Threads.csproj.AssemblyReference.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Exception_Handling_Threads\Exception_Handling_Threads\obj\Debug\net6.0\Exception_Handling_Threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Exception_Handling_Threads\Exception_Handling_Threads\obj\Debug\net6.0\Exception_Handling_Threads.AssemblyInfoInputs.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Exception_Handling_Threads\Exception_Handling_Threads\obj\Debug\net6.0\Exception_Handling_Threads.AssemblyInfo.cs
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Exception_Handling_Threads\Exception_Handling_Threads\obj\Debug\net6.0\Exception_Handling_Threads.csproj.CoreCompileInputs.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Exception_Handling_Threads\Exception_Handling_Threads\obj\Debug\net6.0\Exception_Handling_Threads.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Exception_Handling_Threads\Exception_Handling_Threads\obj\Debug\net6.0\ref\Exception_Handling_Threads.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Exception_Handling_Threads\Exception_Handling_Threads\obj\Debug\net6.0\Exception_Handling_Threads.pdb
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Exception_Handling_Threads\Exception_Handling_Threads\obj\Debug\net6.0\Exception_Handling_Threads.genruntimeconfig.cache

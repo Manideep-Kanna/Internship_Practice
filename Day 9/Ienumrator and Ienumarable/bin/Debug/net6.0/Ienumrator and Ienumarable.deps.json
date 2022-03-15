@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ienumrator and Ienumarable/1.0.0": {
+        "runtime": {
+          "Ienumrator and Ienumarable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ienumrator and Ienumarable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

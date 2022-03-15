@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "40eb9ed0-a177-4914-b7b3-be403fe8f267": {
+      "ProjectGuid": "40eb9ed0-a177-4914-b7b3-be403fe8f267",
+      "DisplayName": "TopicReciever",
+      "ColorIndex": 0
+    },
+    "575926eb-14fe-4a27-b8e8-4bf2cf982cf7": {
+      "ProjectGuid": "575926eb-14fe-4a27-b8e8-4bf2cf982cf7",
+      "DisplayName": "TopicSender",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

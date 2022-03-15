@@ -1,0 +1,15 @@
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Indexer\obj\Debug\net6.0\Indexer.csproj.AssemblyReference.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Indexer\obj\Debug\net6.0\Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Indexer\obj\Debug\net6.0\Indexer.AssemblyInfoInputs.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Indexer\obj\Debug\net6.0\Indexer.AssemblyInfo.cs
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Indexer\obj\Debug\net6.0\Indexer.csproj.CoreCompileInputs.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Indexer\bin\Debug\net6.0\Indexer.exe
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Indexer\bin\Debug\net6.0\Indexer.deps.json
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Indexer\bin\Debug\net6.0\Indexer.runtimeconfig.json
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Indexer\bin\Debug\net6.0\Indexer.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Indexer\bin\Debug\net6.0\ref\Indexer.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Indexer\bin\Debug\net6.0\Indexer.pdb
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Indexer\obj\Debug\net6.0\Indexer.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Indexer\obj\Debug\net6.0\ref\Indexer.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Indexer\obj\Debug\net6.0\Indexer.pdb
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Indexer\obj\Debug\net6.0\Indexer.genruntimeconfig.cache

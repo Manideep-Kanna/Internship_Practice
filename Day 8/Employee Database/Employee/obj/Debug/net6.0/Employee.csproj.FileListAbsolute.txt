@@ -1,0 +1,15 @@
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Employee Database\Employee\bin\Debug\net6.0\Employee.exe
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Employee Database\Employee\bin\Debug\net6.0\Employee.deps.json
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Employee Database\Employee\bin\Debug\net6.0\Employee.runtimeconfig.json
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Employee Database\Employee\bin\Debug\net6.0\Employee.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Employee Database\Employee\bin\Debug\net6.0\ref\Employee.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Employee Database\Employee\bin\Debug\net6.0\Employee.pdb
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Employee Database\Employee\obj\Debug\net6.0\Employee.csproj.AssemblyReference.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Employee Database\Employee\obj\Debug\net6.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Employee Database\Employee\obj\Debug\net6.0\Employee.AssemblyInfoInputs.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Employee Database\Employee\obj\Debug\net6.0\Employee.AssemblyInfo.cs
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Employee Database\Employee\obj\Debug\net6.0\Employee.csproj.CoreCompileInputs.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Employee Database\Employee\obj\Debug\net6.0\Employee.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Employee Database\Employee\obj\Debug\net6.0\ref\Employee.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Employee Database\Employee\obj\Debug\net6.0\Employee.pdb
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Employee Database\Employee\obj\Debug\net6.0\Employee.genruntimeconfig.cache

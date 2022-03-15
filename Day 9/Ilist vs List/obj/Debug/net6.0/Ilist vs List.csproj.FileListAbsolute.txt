@@ -1,0 +1,14 @@
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Ilist vs List\obj\Debug\net6.0\Ilist vs List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Ilist vs List\obj\Debug\net6.0\Ilist vs List.AssemblyInfoInputs.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Ilist vs List\obj\Debug\net6.0\Ilist vs List.AssemblyInfo.cs
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Ilist vs List\obj\Debug\net6.0\Ilist vs List.csproj.CoreCompileInputs.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Ilist vs List\bin\Debug\net6.0\Ilist vs List.exe
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Ilist vs List\bin\Debug\net6.0\Ilist vs List.deps.json
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Ilist vs List\bin\Debug\net6.0\Ilist vs List.runtimeconfig.json
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Ilist vs List\bin\Debug\net6.0\Ilist vs List.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Ilist vs List\bin\Debug\net6.0\ref\Ilist vs List.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Ilist vs List\bin\Debug\net6.0\Ilist vs List.pdb
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Ilist vs List\obj\Debug\net6.0\Ilist vs List.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Ilist vs List\obj\Debug\net6.0\ref\Ilist vs List.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Ilist vs List\obj\Debug\net6.0\Ilist vs List.pdb
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Ilist vs List\obj\Debug\net6.0\Ilist vs List.genruntimeconfig.cache

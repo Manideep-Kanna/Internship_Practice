@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "acb96971-148b-4d2f-aefc-0ed0ee34d04a": {
+      "ProjectGuid": "acb96971-148b-4d2f-aefc-0ed0ee34d04a",
+      "DisplayName": "TextSerialize",
+      "ColorIndex": 0
+    },
+    "9d0c9d7c-7180-44c1-8475-39362ad90149": {
+      "ProjectGuid": "9d0c9d7c-7180-44c1-8475-39362ad90149",
+      "DisplayName": "JsonSerialize_Deserialize",
+      "ColorIndex": 1
+    },
+    "ea8ec9a2-28f7-4573-b737-c9380e6b69d3": {
+      "ProjectGuid": "ea8ec9a2-28f7-4573-b737-c9380e6b69d3",
+      "DisplayName": "Json_Practice",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,41 @@
+
+Asynchronous Programming 
+
+What is Asynchronous  
+
+Programming Threading  
+
+concepts 
+
+Spawning Threads, Wait handles,  
+
+Fork Understanding Tasks and Task  
+
+Manager Introduction to async &  
+
+Await 
+
+Monitoring async awaits using Thread  
+
+windows Introduction to Task Parallel  
+
+Library 
+
+Creating Tasks – Task<>,  
+
+Task<T> Using TaskFactory 
+
+Using Lambdas for Creating & Running  
+
+Tasks Verifying Parallization across  
+
+cores 
+
+Handling exceptions  
+
+Task Cancellation 
+
+Using Concurrent  
+
+Collections Demos & Labs 
+

@@ -1,0 +1,14 @@
+Generics and Collections
+Generics					Yes
+What are Generics				Yes
+Problems with return data types			Yes
+Object Type – Issues, Addressed by Generics	Yes
+Introduction to 
+Collections Arrays Vs				Yes 
+Collections Generic				Yes 
+Collections Creating				Yes 
+Generic Functions				Yes 
+Creating Generic Classes			Yes
+Understanding IEnumerable, IEnumerator,		Yes 
+IList Using List<>, Dictionary<>, 		Yes
+NameValueCollection<> Demos & Labs

@@ -1,0 +1,17 @@
+New features in C#			Yes
+Autoproperties & 			Yes
+Immutability String 
+Interpolation
+Nameof()
+Nullability & null-conditional 
+operators Index initializers
+Tuples
+Discards
+Local Functions 
+Pattern Matching 
+Exception 
+Handling Types of 
+Exceptions 
+Throw…catch
+When to use throw & catch – Best 
+Practices Demos & Labs

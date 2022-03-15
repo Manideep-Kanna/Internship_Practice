@@ -1,0 +1,15 @@
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Reflection\Perfect Reflection\bin\Debug\net6.0\Perfect Reflection.exe
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Reflection\Perfect Reflection\bin\Debug\net6.0\Perfect Reflection.deps.json
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Reflection\Perfect Reflection\bin\Debug\net6.0\Perfect Reflection.runtimeconfig.json
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Reflection\Perfect Reflection\bin\Debug\net6.0\Perfect Reflection.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Reflection\Perfect Reflection\bin\Debug\net6.0\ref\Perfect Reflection.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Reflection\Perfect Reflection\bin\Debug\net6.0\Perfect Reflection.pdb
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Reflection\Perfect Reflection\obj\Debug\net6.0\Perfect Reflection.csproj.AssemblyReference.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Reflection\Perfect Reflection\obj\Debug\net6.0\Perfect Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Reflection\Perfect Reflection\obj\Debug\net6.0\Perfect Reflection.AssemblyInfoInputs.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Reflection\Perfect Reflection\obj\Debug\net6.0\Perfect Reflection.AssemblyInfo.cs
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Reflection\Perfect Reflection\obj\Debug\net6.0\Perfect Reflection.csproj.CoreCompileInputs.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Reflection\Perfect Reflection\obj\Debug\net6.0\Perfect Reflection.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Reflection\Perfect Reflection\obj\Debug\net6.0\ref\Perfect Reflection.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Reflection\Perfect Reflection\obj\Debug\net6.0\Perfect Reflection.pdb
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Reflection\Perfect Reflection\obj\Debug\net6.0\Perfect Reflection.genruntimeconfig.cache

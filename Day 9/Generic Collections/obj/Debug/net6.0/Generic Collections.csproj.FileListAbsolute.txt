@@ -1,0 +1,14 @@
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Generic Collections\bin\Debug\net6.0\Generic Collections.exe
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Generic Collections\bin\Debug\net6.0\Generic Collections.deps.json
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Generic Collections\bin\Debug\net6.0\Generic Collections.runtimeconfig.json
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Generic Collections\bin\Debug\net6.0\Generic Collections.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Generic Collections\bin\Debug\net6.0\ref\Generic Collections.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Generic Collections\bin\Debug\net6.0\Generic Collections.pdb
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Generic Collections\obj\Debug\net6.0\Generic Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Generic Collections\obj\Debug\net6.0\Generic Collections.AssemblyInfoInputs.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Generic Collections\obj\Debug\net6.0\Generic Collections.AssemblyInfo.cs
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Generic Collections\obj\Debug\net6.0\Generic Collections.csproj.CoreCompileInputs.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Generic Collections\obj\Debug\net6.0\Generic Collections.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Generic Collections\obj\Debug\net6.0\ref\Generic Collections.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Generic Collections\obj\Debug\net6.0\Generic Collections.pdb
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Generic Collections\obj\Debug\net6.0\Generic Collections.genruntimeconfig.cache

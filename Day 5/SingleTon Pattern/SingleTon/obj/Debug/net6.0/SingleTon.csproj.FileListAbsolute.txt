@@ -1,0 +1,15 @@
+C:\Users\vatsitar\source\repos\SingleTon Pattern\SingleTon\bin\Debug\net6.0\SingleTon.exe
+C:\Users\vatsitar\source\repos\SingleTon Pattern\SingleTon\bin\Debug\net6.0\SingleTon.deps.json
+C:\Users\vatsitar\source\repos\SingleTon Pattern\SingleTon\bin\Debug\net6.0\SingleTon.runtimeconfig.json
+C:\Users\vatsitar\source\repos\SingleTon Pattern\SingleTon\bin\Debug\net6.0\SingleTon.dll
+C:\Users\vatsitar\source\repos\SingleTon Pattern\SingleTon\bin\Debug\net6.0\ref\SingleTon.dll
+C:\Users\vatsitar\source\repos\SingleTon Pattern\SingleTon\bin\Debug\net6.0\SingleTon.pdb
+C:\Users\vatsitar\source\repos\SingleTon Pattern\SingleTon\obj\Debug\net6.0\SingleTon.csproj.AssemblyReference.cache
+C:\Users\vatsitar\source\repos\SingleTon Pattern\SingleTon\obj\Debug\net6.0\SingleTon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vatsitar\source\repos\SingleTon Pattern\SingleTon\obj\Debug\net6.0\SingleTon.AssemblyInfoInputs.cache
+C:\Users\vatsitar\source\repos\SingleTon Pattern\SingleTon\obj\Debug\net6.0\SingleTon.AssemblyInfo.cs
+C:\Users\vatsitar\source\repos\SingleTon Pattern\SingleTon\obj\Debug\net6.0\SingleTon.csproj.CoreCompileInputs.cache
+C:\Users\vatsitar\source\repos\SingleTon Pattern\SingleTon\obj\Debug\net6.0\SingleTon.dll
+C:\Users\vatsitar\source\repos\SingleTon Pattern\SingleTon\obj\Debug\net6.0\ref\SingleTon.dll
+C:\Users\vatsitar\source\repos\SingleTon Pattern\SingleTon\obj\Debug\net6.0\SingleTon.pdb
+C:\Users\vatsitar\source\repos\SingleTon Pattern\SingleTon\obj\Debug\net6.0\SingleTon.genruntimeconfig.cache

@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d3d5de28-19e0-4478-af2f-296fd3fd3db3": {
+      "ProjectGuid": "d3d5de28-19e0-4478-af2f-296fd3fd3db3",
+      "DisplayName": "Generic Classes",
+      "ColorIndex": 0
+    },
+    "7630990a-a43a-46e1-86fe-073ed5f914e6": {
+      "ProjectGuid": "7630990a-a43a-46e1-86fe-073ed5f914e6",
+      "DisplayName": "Non Generic Collections",
+      "ColorIndex": 1
+    },
+    "094ebb79-f7b1-4c82-b5a8-d837739d7b0c": {
+      "ProjectGuid": "094ebb79-f7b1-4c82-b5a8-d837739d7b0c",
+      "DisplayName": "Generic Collections",
+      "ColorIndex": 2
+    },
+    "aa89a030-cf59-4aa0-9420-525e123b756f": {
+      "ProjectGuid": "aa89a030-cf59-4aa0-9420-525e123b756f",
+      "DisplayName": "Ilist vs List",
+      "ColorIndex": 3
+    },
+    "c19e5c37-b165-47c9-aea3-9dc2e561f277": {
+      "ProjectGuid": "c19e5c37-b165-47c9-aea3-9dc2e561f277",
+      "DisplayName": "Ienumrator and Ienumarable",
+      "ColorIndex": 4
+    },
+    "22b76024-fd43-473f-96da-ae86e93295a2": {
+      "ProjectGuid": "22b76024-fd43-473f-96da-ae86e93295a2",
+      "DisplayName": "Indexer",
+      "ColorIndex": 5
+    },
+    "27b16691-fd3e-4e1f-9f84-b5a30d281a25": {
+      "ProjectGuid": "27b16691-fd3e-4e1f-9f84-b5a30d281a25",
+      "DisplayName": "Practice",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 7
+}

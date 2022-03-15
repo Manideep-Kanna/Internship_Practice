@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2d0013b2-f4e9-4846-806e-bd54eef06722": {
+      "ProjectGuid": "2d0013b2-f4e9-4846-806e-bd54eef06722",
+      "DisplayName": "Thread_Safety_MUTEX",
+      "ColorIndex": 0
+    },
+    "2138be6b-cea7-43b9-a39e-d7b499cae9d9": {
+      "ProjectGuid": "2138be6b-cea7-43b9-a39e-d7b499cae9d9",
+      "DisplayName": "Thread_Safety Lock",
+      "ColorIndex": 1
+    },
+    "f1040e41-2cad-44ff-8c88-6f8b65167379": {
+      "ProjectGuid": "f1040e41-2cad-44ff-8c88-6f8b65167379",
+      "DisplayName": "Practice",
+      "ColorIndex": 2
+    },
+    "e25bcfd1-23f8-4b0a-993e-a58281a1d3d5": {
+      "ProjectGuid": "e25bcfd1-23f8-4b0a-993e-a58281a1d3d5",
+      "DisplayName": "MultiThreading",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

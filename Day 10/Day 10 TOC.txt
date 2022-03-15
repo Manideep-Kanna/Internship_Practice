@@ -1,0 +1,18 @@
+Lambdas, Delegates and Events
+Lambda Functions			Yes 
+What are Lambdas? Syntax & Usage	Yes
+Creating Lambda 			Yes
+Expressions Built-in 			Yes
+Lambdas					Yes
+Creating Lambda Functions & 		Yes
+Properties Understanding Delegates	Yes
+Creating 				Yes
+Delegates What 
+are events 
+Creating Events
+How Events use Delegates 
+Creating Delegates as 			Yes
+lambdas Action<>, Func<>, 		Yes
+Predicate<>				Yes
+Creating Loops as Lambda 		No
+expressions Demos & Labs		Yes

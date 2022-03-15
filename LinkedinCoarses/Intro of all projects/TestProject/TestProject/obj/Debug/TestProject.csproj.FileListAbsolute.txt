@@ -1,0 +1,34 @@
+C:\Users\vatsitar\source\repos\TestProject\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\vatsitar\source\repos\TestProject\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\vatsitar\source\repos\TestProject\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\vatsitar\source\repos\TestProject\TestProject\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\vatsitar\source\repos\TestProject\TestProject\bin\Debug\TestProject.dll
+C:\Users\vatsitar\source\repos\TestProject\TestProject\bin\Debug\TestProject.pdb
+C:\Users\vatsitar\source\repos\TestProject\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\vatsitar\source\repos\TestProject\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\vatsitar\source\repos\TestProject\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\vatsitar\source\repos\TestProject\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\vatsitar\source\repos\TestProject\TestProject\obj\Debug\TestProject.csproj.AssemblyReference.cache
+C:\Users\vatsitar\source\repos\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\vatsitar\source\repos\TestProject\TestProject\obj\Debug\TestProject.csproj.CopyComplete
+C:\Users\vatsitar\source\repos\TestProject\TestProject\obj\Debug\TestProject.dll
+C:\Users\vatsitar\source\repos\TestProject\TestProject\obj\Debug\TestProject.pdb
+C:\Users\vatsitar\source\repos\TestProject\TestProject\bin\Debug\salcal.dll
+C:\Users\vatsitar\source\repos\TestProject\TestProject\bin\Debug\salcal.pdb
+C:\Users\vatsitar\Desktop\My Works\Internship Works\LinkedinCoarses\Intro of all projects\TestProject\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\LinkedinCoarses\Intro of all projects\TestProject\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\LinkedinCoarses\Intro of all projects\TestProject\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\LinkedinCoarses\Intro of all projects\TestProject\TestProject\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\LinkedinCoarses\Intro of all projects\TestProject\TestProject\bin\Debug\TestProject.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\LinkedinCoarses\Intro of all projects\TestProject\TestProject\bin\Debug\TestProject.pdb
+C:\Users\vatsitar\Desktop\My Works\Internship Works\LinkedinCoarses\Intro of all projects\TestProject\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\LinkedinCoarses\Intro of all projects\TestProject\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\LinkedinCoarses\Intro of all projects\TestProject\TestProject\bin\Debug\salcal.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\LinkedinCoarses\Intro of all projects\TestProject\TestProject\bin\Debug\salcal.pdb
+C:\Users\vatsitar\Desktop\My Works\Internship Works\LinkedinCoarses\Intro of all projects\TestProject\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\vatsitar\Desktop\My Works\Internship Works\LinkedinCoarses\Intro of all projects\TestProject\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\vatsitar\Desktop\My Works\Internship Works\LinkedinCoarses\Intro of all projects\TestProject\TestProject\obj\Debug\TestProject.csproj.AssemblyReference.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\LinkedinCoarses\Intro of all projects\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\LinkedinCoarses\Intro of all projects\TestProject\TestProject\obj\Debug\TestProject.csproj.CopyComplete
+C:\Users\vatsitar\Desktop\My Works\Internship Works\LinkedinCoarses\Intro of all projects\TestProject\TestProject\obj\Debug\TestProject.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\LinkedinCoarses\Intro of all projects\TestProject\TestProject\obj\Debug\TestProject.pdb

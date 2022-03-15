@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "82a38107-9429-4814-8244-435eb2534e1f": {
+      "ProjectGuid": "82a38107-9429-4814-8244-435eb2534e1f",
+      "DisplayName": "TLP",
+      "ColorIndex": 0
+    },
+    "1f27651f-d480-4564-a3b9-ca372348d613": {
+      "ProjectGuid": "1f27651f-d480-4564-a3b9-ca372348d613",
+      "DisplayName": "Tasks Basics",
+      "ColorIndex": 1
+    },
+    "38bde523-4cfd-4157-bf97-60db75cd1f05": {
+      "ProjectGuid": "38bde523-4cfd-4157-bf97-60db75cd1f05",
+      "DisplayName": "Task waiting",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

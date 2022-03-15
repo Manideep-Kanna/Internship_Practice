@@ -1,0 +1,13 @@
+Entity Framework
+Introduction to Entity Framework 
+Core What problems does EF Core 
+solve?
+Architecture & Working 
+When to use EF Core 
+When NOT to use EF Core 
+What is a DB Context
+Adding EF Core to the Web Api 
+Project EF Core Approaches
+Creating APIs using EF 
+Core Creating Database 
+Tables Demos & Labs

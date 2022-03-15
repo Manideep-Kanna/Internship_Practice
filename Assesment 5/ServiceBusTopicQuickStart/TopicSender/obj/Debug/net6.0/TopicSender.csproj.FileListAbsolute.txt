@@ -1,0 +1,44 @@
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicSender\bin\Debug\net6.0\TopicSender.exe
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicSender\bin\Debug\net6.0\TopicSender.deps.json
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicSender\bin\Debug\net6.0\TopicSender.runtimeconfig.json
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicSender\bin\Debug\net6.0\TopicSender.dll
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicSender\bin\Debug\net6.0\ref\TopicSender.dll
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicSender\bin\Debug\net6.0\TopicSender.pdb
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicSender\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicSender\bin\Debug\net6.0\Azure.Core.Amqp.dll
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicSender\bin\Debug\net6.0\Azure.Messaging.ServiceBus.dll
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicSender\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicSender\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicSender\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicSender\obj\Debug\net6.0\TopicSender.csproj.AssemblyReference.cache
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicSender\obj\Debug\net6.0\TopicSender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicSender\obj\Debug\net6.0\TopicSender.AssemblyInfoInputs.cache
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicSender\obj\Debug\net6.0\TopicSender.AssemblyInfo.cs
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicSender\obj\Debug\net6.0\TopicSender.csproj.CoreCompileInputs.cache
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicSender\obj\Debug\net6.0\TopicSender.csproj.CopyComplete
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicSender\obj\Debug\net6.0\TopicSender.dll
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicSender\obj\Debug\net6.0\ref\TopicSender.dll
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicSender\obj\Debug\net6.0\TopicSender.pdb
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicSender\obj\Debug\net6.0\TopicSender.genruntimeconfig.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicSender\bin\Debug\net6.0\TopicSender.exe
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicSender\bin\Debug\net6.0\TopicSender.deps.json
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicSender\bin\Debug\net6.0\TopicSender.runtimeconfig.json
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicSender\bin\Debug\net6.0\TopicSender.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicSender\bin\Debug\net6.0\ref\TopicSender.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicSender\bin\Debug\net6.0\TopicSender.pdb
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicSender\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicSender\bin\Debug\net6.0\Azure.Core.Amqp.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicSender\bin\Debug\net6.0\Azure.Messaging.ServiceBus.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicSender\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicSender\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicSender\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicSender\obj\Debug\net6.0\TopicSender.csproj.AssemblyReference.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicSender\obj\Debug\net6.0\TopicSender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicSender\obj\Debug\net6.0\TopicSender.AssemblyInfoInputs.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicSender\obj\Debug\net6.0\TopicSender.AssemblyInfo.cs
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicSender\obj\Debug\net6.0\TopicSender.csproj.CoreCompileInputs.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicSender\obj\Debug\net6.0\TopicSender.csproj.CopyComplete
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicSender\obj\Debug\net6.0\TopicSender.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicSender\obj\Debug\net6.0\ref\TopicSender.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicSender\obj\Debug\net6.0\TopicSender.pdb
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicSender\obj\Debug\net6.0\TopicSender.genruntimeconfig.cache

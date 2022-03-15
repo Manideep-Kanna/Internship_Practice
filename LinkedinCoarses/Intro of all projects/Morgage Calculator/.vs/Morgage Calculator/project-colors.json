@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0573383b-1cc4-40c1-ab69-3a3a861d40e3": {
+      "ProjectGuid": "0573383b-1cc4-40c1-ab69-3a3a861d40e3",
+      "DisplayName": "Morgage Calculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

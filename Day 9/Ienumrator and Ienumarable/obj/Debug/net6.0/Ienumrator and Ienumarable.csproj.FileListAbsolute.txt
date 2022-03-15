@@ -1,0 +1,14 @@
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Ienumrator and Ienumarable\bin\Debug\net6.0\Ienumrator and Ienumarable.exe
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Ienumrator and Ienumarable\bin\Debug\net6.0\Ienumrator and Ienumarable.deps.json
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Ienumrator and Ienumarable\bin\Debug\net6.0\Ienumrator and Ienumarable.runtimeconfig.json
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Ienumrator and Ienumarable\bin\Debug\net6.0\Ienumrator and Ienumarable.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Ienumrator and Ienumarable\bin\Debug\net6.0\ref\Ienumrator and Ienumarable.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Ienumrator and Ienumarable\bin\Debug\net6.0\Ienumrator and Ienumarable.pdb
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Ienumrator and Ienumarable\obj\Debug\net6.0\Ienumrator and Ienumarable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Ienumrator and Ienumarable\obj\Debug\net6.0\Ienumrator and Ienumarable.AssemblyInfoInputs.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Ienumrator and Ienumarable\obj\Debug\net6.0\Ienumrator and Ienumarable.AssemblyInfo.cs
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Ienumrator and Ienumarable\obj\Debug\net6.0\Ienumrator and Ienumarable.csproj.CoreCompileInputs.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Ienumrator and Ienumarable\obj\Debug\net6.0\Ienumrator and Ienumarable.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Ienumrator and Ienumarable\obj\Debug\net6.0\ref\Ienumrator and Ienumarable.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Ienumrator and Ienumarable\obj\Debug\net6.0\Ienumrator and Ienumarable.pdb
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Days\Day 8\Day 9\Ienumrator and Ienumarable\obj\Debug\net6.0\Ienumrator and Ienumarable.genruntimeconfig.cache

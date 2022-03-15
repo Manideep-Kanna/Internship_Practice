@@ -1,0 +1,7 @@
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 4\KannaWebApp\KannaWebApp\obj\Release\net6.0\PubTmp\Out\KannaWebApp.exe
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 4\KannaWebApp\KannaWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 4\KannaWebApp\KannaWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 4\KannaWebApp\KannaWebApp\obj\Release\net6.0\PubTmp\Out\KannaWebApp.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 4\KannaWebApp\KannaWebApp\obj\Release\net6.0\PubTmp\Out\KannaWebApp.deps.json
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 4\KannaWebApp\KannaWebApp\obj\Release\net6.0\PubTmp\Out\KannaWebApp.runtimeconfig.json
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 4\KannaWebApp\KannaWebApp\obj\Release\net6.0\PubTmp\Out\KannaWebApp.pdb

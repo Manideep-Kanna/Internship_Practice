@@ -1,0 +1,15 @@
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Design Patterns\Factory Pattern\Factory Pattern\obj\Debug\net6.0\Factory Pattern.csproj.AssemblyReference.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Design Patterns\Factory Pattern\Factory Pattern\obj\Debug\net6.0\Factory Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Design Patterns\Factory Pattern\Factory Pattern\obj\Debug\net6.0\Factory Pattern.AssemblyInfoInputs.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Design Patterns\Factory Pattern\Factory Pattern\obj\Debug\net6.0\Factory Pattern.AssemblyInfo.cs
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Design Patterns\Factory Pattern\Factory Pattern\obj\Debug\net6.0\Factory Pattern.csproj.CoreCompileInputs.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Design Patterns\Factory Pattern\Factory Pattern\bin\Debug\net6.0\Factory Pattern.exe
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Design Patterns\Factory Pattern\Factory Pattern\bin\Debug\net6.0\Factory Pattern.deps.json
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Design Patterns\Factory Pattern\Factory Pattern\bin\Debug\net6.0\Factory Pattern.runtimeconfig.json
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Design Patterns\Factory Pattern\Factory Pattern\bin\Debug\net6.0\Factory Pattern.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Design Patterns\Factory Pattern\Factory Pattern\bin\Debug\net6.0\ref\Factory Pattern.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Design Patterns\Factory Pattern\Factory Pattern\bin\Debug\net6.0\Factory Pattern.pdb
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Design Patterns\Factory Pattern\Factory Pattern\obj\Debug\net6.0\Factory Pattern.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Design Patterns\Factory Pattern\Factory Pattern\obj\Debug\net6.0\ref\Factory Pattern.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Design Patterns\Factory Pattern\Factory Pattern\obj\Debug\net6.0\Factory Pattern.pdb
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Design Patterns\Factory Pattern\Factory Pattern\obj\Debug\net6.0\Factory Pattern.genruntimeconfig.cache

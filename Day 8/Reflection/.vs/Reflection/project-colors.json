@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "78f2a362-b8c5-46ba-92ba-6c60d64c2029": {
+      "ProjectGuid": "78f2a362-b8c5-46ba-92ba-6c60d64c2029",
+      "DisplayName": "Reflection",
+      "ColorIndex": 0
+    },
+    "77a232df-342f-476d-a884-e92c36ed83fa": {
+      "ProjectGuid": "77a232df-342f-476d-a884-e92c36ed83fa",
+      "DisplayName": "Perfect Reflection",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ffeeb865-8cd0-438d-a1d2-615ea3caa9f2": {
+      "ProjectGuid": "ffeeb865-8cd0-438d-a1d2-615ea3caa9f2",
+      "DisplayName": "E Commerce App",
+      "ColorIndex": 0
+    },
+    "c961e7b3-05cd-4417-b1b3-ecde6b98e596": {
+      "ProjectGuid": "c961e7b3-05cd-4417-b1b3-ecde6b98e596",
+      "DisplayName": "Sample_Events",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

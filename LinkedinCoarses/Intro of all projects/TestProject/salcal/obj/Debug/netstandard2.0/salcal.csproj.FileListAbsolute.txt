@@ -1,0 +1,20 @@
+C:\Users\vatsitar\source\repos\TestProject\salcal\bin\Debug\netstandard2.0\salcal.deps.json
+C:\Users\vatsitar\source\repos\TestProject\salcal\bin\Debug\netstandard2.0\salcal.dll
+C:\Users\vatsitar\source\repos\TestProject\salcal\bin\Debug\netstandard2.0\salcal.pdb
+C:\Users\vatsitar\source\repos\TestProject\salcal\obj\Debug\netstandard2.0\salcal.csproj.AssemblyReference.cache
+C:\Users\vatsitar\source\repos\TestProject\salcal\obj\Debug\netstandard2.0\salcal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vatsitar\source\repos\TestProject\salcal\obj\Debug\netstandard2.0\salcal.AssemblyInfoInputs.cache
+C:\Users\vatsitar\source\repos\TestProject\salcal\obj\Debug\netstandard2.0\salcal.AssemblyInfo.cs
+C:\Users\vatsitar\source\repos\TestProject\salcal\obj\Debug\netstandard2.0\salcal.csproj.CoreCompileInputs.cache
+C:\Users\vatsitar\source\repos\TestProject\salcal\obj\Debug\netstandard2.0\salcal.dll
+C:\Users\vatsitar\source\repos\TestProject\salcal\obj\Debug\netstandard2.0\salcal.pdb
+C:\Users\vatsitar\Desktop\My Works\Internship Works\LinkedinCoarses\Intro of all projects\TestProject\salcal\bin\Debug\netstandard2.0\salcal.deps.json
+C:\Users\vatsitar\Desktop\My Works\Internship Works\LinkedinCoarses\Intro of all projects\TestProject\salcal\bin\Debug\netstandard2.0\salcal.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\LinkedinCoarses\Intro of all projects\TestProject\salcal\bin\Debug\netstandard2.0\salcal.pdb
+C:\Users\vatsitar\Desktop\My Works\Internship Works\LinkedinCoarses\Intro of all projects\TestProject\salcal\obj\Debug\netstandard2.0\salcal.csproj.AssemblyReference.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\LinkedinCoarses\Intro of all projects\TestProject\salcal\obj\Debug\netstandard2.0\salcal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vatsitar\Desktop\My Works\Internship Works\LinkedinCoarses\Intro of all projects\TestProject\salcal\obj\Debug\netstandard2.0\salcal.AssemblyInfoInputs.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\LinkedinCoarses\Intro of all projects\TestProject\salcal\obj\Debug\netstandard2.0\salcal.AssemblyInfo.cs
+C:\Users\vatsitar\Desktop\My Works\Internship Works\LinkedinCoarses\Intro of all projects\TestProject\salcal\obj\Debug\netstandard2.0\salcal.csproj.CoreCompileInputs.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\LinkedinCoarses\Intro of all projects\TestProject\salcal\obj\Debug\netstandard2.0\salcal.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\LinkedinCoarses\Intro of all projects\TestProject\salcal\obj\Debug\netstandard2.0\salcal.pdb

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="ManideepWebApp" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\vatsitar\\Desktop\\My\ Works\\Internship\ Works\\Azure\ Pushes\\PSI-2022-Jan-DotNet-Batch\\Manideep\\Assesment\ 4\\KannaWebApp\\KannaWebApp\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

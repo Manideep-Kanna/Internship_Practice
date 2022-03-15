@@ -1,0 +1,44 @@
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicReciever\bin\Debug\net6.0\TopicReciever.exe
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicReciever\bin\Debug\net6.0\TopicReciever.deps.json
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicReciever\bin\Debug\net6.0\TopicReciever.runtimeconfig.json
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicReciever\bin\Debug\net6.0\TopicReciever.dll
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicReciever\bin\Debug\net6.0\ref\TopicReciever.dll
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicReciever\bin\Debug\net6.0\TopicReciever.pdb
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicReciever\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicReciever\bin\Debug\net6.0\Azure.Core.Amqp.dll
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicReciever\bin\Debug\net6.0\Azure.Messaging.ServiceBus.dll
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicReciever\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicReciever\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicReciever\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicReciever\obj\Debug\net6.0\TopicReciever.csproj.AssemblyReference.cache
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicReciever\obj\Debug\net6.0\TopicReciever.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicReciever\obj\Debug\net6.0\TopicReciever.AssemblyInfoInputs.cache
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicReciever\obj\Debug\net6.0\TopicReciever.AssemblyInfo.cs
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicReciever\obj\Debug\net6.0\TopicReciever.csproj.CoreCompileInputs.cache
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicReciever\obj\Debug\net6.0\TopicReciever.csproj.CopyComplete
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicReciever\obj\Debug\net6.0\TopicReciever.dll
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicReciever\obj\Debug\net6.0\ref\TopicReciever.dll
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicReciever\obj\Debug\net6.0\TopicReciever.pdb
+C:\Users\vatsitar\Desktop\My Works\WEB API\ServiceBusTopicQuickStart\TopicReciever\obj\Debug\net6.0\TopicReciever.genruntimeconfig.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicReciever\bin\Debug\net6.0\TopicReciever.exe
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicReciever\bin\Debug\net6.0\TopicReciever.deps.json
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicReciever\bin\Debug\net6.0\TopicReciever.runtimeconfig.json
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicReciever\bin\Debug\net6.0\TopicReciever.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicReciever\bin\Debug\net6.0\ref\TopicReciever.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicReciever\bin\Debug\net6.0\TopicReciever.pdb
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicReciever\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicReciever\bin\Debug\net6.0\Azure.Core.Amqp.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicReciever\bin\Debug\net6.0\Azure.Messaging.ServiceBus.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicReciever\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicReciever\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicReciever\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicReciever\obj\Debug\net6.0\TopicReciever.csproj.AssemblyReference.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicReciever\obj\Debug\net6.0\TopicReciever.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicReciever\obj\Debug\net6.0\TopicReciever.AssemblyInfoInputs.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicReciever\obj\Debug\net6.0\TopicReciever.AssemblyInfo.cs
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicReciever\obj\Debug\net6.0\TopicReciever.csproj.CoreCompileInputs.cache
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicReciever\obj\Debug\net6.0\TopicReciever.csproj.CopyComplete
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicReciever\obj\Debug\net6.0\TopicReciever.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicReciever\obj\Debug\net6.0\ref\TopicReciever.dll
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicReciever\obj\Debug\net6.0\TopicReciever.pdb
+C:\Users\vatsitar\Desktop\My Works\Internship Works\Azure Pushes\PSI-2022-Jan-DotNet-Batch\Manideep\Assesment 5\ServiceBusTopicQuickStart\TopicReciever\obj\Debug\net6.0\TopicReciever.genruntimeconfig.cache
